@@ -1,0 +1,43 @@
+{
+  "indexedItems": 624,
+  "categories": 44,
+  "fileSourceLinks": 191,
+  "savedFiles": 3,
+  "textIndexedFiles": 3,
+  "groupFilesObserved": 13582,
+  "groupArchiveComplete": false,
+  "publication": "blocked_by_source_helper_process_spawn",
+  "verifiedEmbeddedUrls": [
+    "https://fawazhs.sa/pages/p1792398099788.html"
+  ],
+  "fileChecks": [
+    {
+      "id": "6f5040cb8611",
+      "file": "p1792483228500.docx",
+      "bytes": 399152,
+      "pages": null,
+      "characters": 11090
+    },
+    {
+      "id": "3f0d1bb0b77a",
+      "file": "p1792483220959.pdf",
+      "bytes": 878003,
+      "pages": 16,
+      "characters": 12506
+    },
+    {
+      "id": "4011f6d12d1b",
+      "file": "p1792297564520.pdf",
+      "bytes": 466381,
+      "pages": 12,
+      "characters": 16808
+    }
+  ],
+  "downloadFailures": [
+    {
+      "url": "https://fawazhs.sa/pages/p1792297564520.pdf",
+      "reason": "browser_download_timeout",
+      "status": "recovered_local_file_after_timeout"
+    }
+  ]
+}
